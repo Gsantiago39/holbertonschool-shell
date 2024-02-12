@@ -1,3 +1,2 @@
 #!/bin/bash
 rm-rf  /tmp/betty /my_first_directory/ 
-~
