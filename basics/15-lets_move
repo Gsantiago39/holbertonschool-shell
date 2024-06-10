@@ -1,2 +1,2 @@
 #!/bin/bash
- mv/tmp /tmp/u
+cd /tmp/u_mv
