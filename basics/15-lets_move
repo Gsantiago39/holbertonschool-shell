@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /tmp/15-lets_move
+rm -rf /tmp/u
