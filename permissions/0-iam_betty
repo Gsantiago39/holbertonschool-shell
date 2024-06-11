@@ -1,2 +1,2 @@
 #!/bin/bash
-[ $# -eq 0 ]; betty
+sudo -l /betty
