@@ -1,2 +1,2 @@
 #!/bin/bash
-$ su -<username>
+[ $# -eq 0 ]; betty
