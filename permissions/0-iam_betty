@@ -1,3 +1,3 @@
 #!/bin/bash
-su [-[1]] [user] /betty
+-m, -p, --preserve-environment /bety
 
