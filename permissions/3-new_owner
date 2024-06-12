@@ -1,2 +1,2 @@
 #!/bin/bash 
-ls -l foot.txt /hello/tmp/betty
+ls -l foo.txt /hello/tmp /betty/
