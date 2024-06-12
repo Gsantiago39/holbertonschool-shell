@@ -1,2 +1,2 @@
 #!/bin/bash
-su echo $home/tmp /betty
+su -s /usr/betty/zsh userl
