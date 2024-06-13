@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo apt-get update /betty
+!/bin/bash
+su -c 'ls -l /betty/*'
